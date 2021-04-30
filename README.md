@@ -10,8 +10,12 @@ This program used server of ip address 192.168.1.10. If you wish to change the h
 
 ```String serverAddress = (args.length == 0) ? "192.168.1.10" : args[1];```
 
-This line appears twice, in ```Client.java``` and ```ClientAI.java```
+This line appears twice, in `Client.java` and `ClientAI.java`
 
 You need to have Java SDK installed and added to the environment variables (Please google on how to add java to environment variables)
 
->The claimed "AI" is not really "AI", just basic conditions and randoms (To add mark to my project 😆)
+For more fun, play on 3 different PC
+- 2 GUI(GUI.bat & GUI folder)
+- 1 Server(server.bat, serverAI.bat, Server folder)
+
+### The claimed "AI" is not really "AI", just basic conditions and randoms (To add mark to my project 😆)
