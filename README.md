@@ -12,6 +12,8 @@ This program used server of ip address 192.168.1.10. If you wish to change the h
 
 This line appears twice, in `Client.java` and `ClientAI.java`
 
+*I think I can improvise the code by sending ip as argument.. but it's ok for now*
+
 You need to have Java SDK installed and added to the environment variables (Please google on how to add java to environment variables)
 
 For more fun, play on 3 different PCs
