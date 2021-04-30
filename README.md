@@ -35,4 +35,4 @@ For more fun, play on 3 different PCs
 - 1 Server (server.bat, serverAI.bat, Server folder)
   - ip as stated above
 
-***The claimed "AI" is not really "AI", just basic conditions and randoms (To add mark to my project 😆)***
+***The claimed "AI" is not really "AI", just basic conditions and randoms (To get extra marks for my project 😆)***
