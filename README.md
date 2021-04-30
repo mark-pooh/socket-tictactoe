@@ -22,6 +22,7 @@ For more fun, play on 3 different PCs
 - 1 Server (server.bat, serverAI.bat, Server folder)
   - ip as stated above
 
-![Client vs Client](https://i.ibb.co/5vYkS6L/photo-2021-04-30-21-55-14.jpg)
+<img src="https://i.ibb.co/CBKHSSp/photo-2021-04-30-22-01-38.jpg" height="200" title="Starting Interface">
+<img src="https://i.ibb.co/5vYkS6L/photo-2021-04-30-21-55-14.jpg" height="200" title="Client vs Client">
 
 ***The claimed "AI" is not really "AI", just basic conditions and randoms (To add mark to my project 😆)***
