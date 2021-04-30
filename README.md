@@ -22,7 +22,12 @@ For more fun, play on 3 different PCs
 - 1 Server (server.bat, serverAI.bat, Server folder)
   - ip as stated above
 
+## Screenshots
+
+###### Starting the game
 ![Starting Interface](https://user-images.githubusercontent.com/47978774/116708014-e0e93080-aa01-11eb-8358-7eaf4b28800a.jpg)
+
+###### Dueling
 ![Client vs Client](https://user-images.githubusercontent.com/47978774/116708047-e9416b80-aa01-11eb-84cb-f3900e842087.jpg)
 
 ***The claimed "AI" is not really "AI", just basic conditions and randoms (To add mark to my project 😆)***
