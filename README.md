@@ -16,6 +16,8 @@ You need to have Java SDK installed and added to the environment variables (Plea
 
 For more fun, play on 3 different PCs
 - 2 Client (gui.bat & Client folder)
-- 1 Server (server.bat, serverAI.bat, Server folder)   //ip as stated above
+  - ip in file must refer to the server's ip
+- 1 Server (server.bat, serverAI.bat, Server folder)
+  - ip as stated above
 
 ***The claimed "AI" is not really "AI", just basic conditions and randoms (To add mark to my project 😆)***
