@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=ClientAI
+comment1.params=servAddress
+comment1.target=ClientAI(java.lang.String)
+comment2.params=e
+comment2.target=void\ mousePressed(java.awt.event.MouseEvent)
+comment3.params=
+comment3.target=void\ play()
+comment4.params=
+comment4.target=boolean\ wantsToPlayAgain()
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

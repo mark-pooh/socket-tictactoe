@@ -1,0 +1,2 @@
+cd Server
+java Server

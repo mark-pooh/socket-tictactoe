@@ -1,0 +1,2 @@
+cd ServerAI
+java ServerAI
